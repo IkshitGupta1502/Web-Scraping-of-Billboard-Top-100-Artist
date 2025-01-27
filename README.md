@@ -20,3 +20,5 @@ The script is divided into the following sections:
 -  requests library
 -  BeautifulSoup library
 -  pandas library
+
+Both the Jupyter Notebook code and output CSV file are attached to the repository.
