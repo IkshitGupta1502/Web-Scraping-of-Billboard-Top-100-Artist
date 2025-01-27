@@ -8,6 +8,7 @@ This Python script utilizes web scraping techniques to extract the current top 1
 -  CSV Export: The DataFrame is exported to a CSV file, providing a convenient format for further analysis or data visualization.
   
 **Code Structure**
+
 The script is divided into the following sections:
 -  Importing Libraries: The necessary Python libraries, including requests, BeautifulSoup, and pandas, are imported.
 -  Web Scraping and HTML Parsing: The Billboard webpage is scraped and the HTML content is parsed using BeautifulSoup.
